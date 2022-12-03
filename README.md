@@ -33,6 +33,7 @@ Write your code in `src/index.js`
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
 6. Run npm test in command line  
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
+//TEST
 
 ## Submit to [rs app](https://app.rs.school)
 1. Open [rs app](https://app.rs.school) and login
